@@ -1,2 +1,2 @@
-# CodeAlpha_webdevelopment_Portfolio
-This is my portfolio website developed using html,css as an intern at CodeAlpha
+# CodeAlpha_webdevelopment_Resume
+This is my Resume website developed using html,css as an intern at CodeAlpha
